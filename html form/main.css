@@ -1,0 +1,15 @@
+.body{
+	margin:0px;
+padding:0px;}
+
+.container-fluid{
+	margin:0px;
+padding:0px;}
+.container{
+	margin:0px;
+padding:0px;
+width:100%;
+height:auto;}
+.background{
+	background-color:red;
+}
